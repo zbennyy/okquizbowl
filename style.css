@@ -18,7 +18,6 @@ body {
 
 .dropdown {
   position: relative;
-  display: inline-block;
   float: right;
   padding-right: 250px;
   text-align: center;
