@@ -8,7 +8,7 @@ body {
 }
 
 .dropbtn {
-  background-color: #04AA6D;
+  background-color: #ffffff;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -103,4 +103,8 @@ tr.tier_1 {
 
 #state_standings tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
+li {
+    padding-bottom: 5px;
 }
