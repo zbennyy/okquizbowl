@@ -9,8 +9,56 @@ header {
     border-bottom: 1px solid #ddd;
     width: 100%;
     background: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+header a {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 main {
     margin-top: 100px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+th.rank_col {
+    width: 3%
+}
+
+th.name_col {
+    width: 15%
+}
+
+th.tourn_col {
+    width: 10%
+}
+
+th.total_col {
+    width: 12%
+}
+
+tr.tier_1 {
+    background-color: #26e264 !important;
+}
+
+#state_standings {
+    width: 100%
+}
+
+#state_standings th {
+    border-bottom: 1px solid #ddd;
+}
+
+#state_standings tr {
+    text-align: center;
+}
+
+#state_standings tr:nth-child(even) {
+    background-color: #f2f2f2;
 }
