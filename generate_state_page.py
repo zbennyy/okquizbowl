@@ -36,7 +36,7 @@ fileout.write("\t\t\t<p>Teams are required to qualify to participate in the NAQT
 
 fileout.write("\t\t\t<ul>\n")
 fileout.write("\t\t\t\t<li><p><b>Tier 1: Winning a Tournament</b></p>\n")
-fileout.write("\t\t\t\t<p>Any team that wins a local, regular-season tournament using pyramidal tossup-bonus questions will be awarded an automatic qualification to the NAQT State Championship. This only includes tournaments held in the state of Oklahoma - winning a tournament in another state or winning an online national tournament does not count toward qualification</p></li>\n")
+fileout.write("\t\t\t\t<p>Any team that wins a local, regular-season tournament using pyramidal tossup-bonus questions will be awarded an automatic qualification to the NAQT State Championship. This only includes tournaments held in the state of Oklahoma - winning a tournament in another state or winning an online national tournament does not count toward qualification.</p></li>\n")
 fileout.write("\t\t\t\t<li><p><b>Tier 2: Qualification Points</b></p>\n")
 fileout.write("\t\t\t\t<p>All teams that participate in qualifying events will be awarded points based on the percentile of their finishing position. For example, in a field of 20 teams the winning team will be awarded 100 points (and an automatic qualification), the second place team will receive 95 points, the third place team will receive 90 points, and so on. The number of points a team receives at a given tournament can be computed from the formula, 100 * (1 - <sup>p-1</sup>&frasl;<sub>n</sub>) where <i>p</i> is the team's finishing position and <i>n</i> is the number of teams at the event.</p></li>\n")
 fileout.write("\t\t\t\t<li><p><b>Tier 3: Wildcard Bids</b></p>\n")
