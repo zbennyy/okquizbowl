@@ -53,7 +53,7 @@ fileout.write("\t\t\t<h3>Current Qualification Standings</h3>\n")
 standings_file = open("2025 NAQT State Standings.csv", 'r')
 
 # Variables for Tracking Points Qualifications
-num_total_tournaments = 7
+num_total_tournaments = 8
 
 # Begin Table
 fileout.write("\t\t\t<table id=\"state_standings\">\n")
