@@ -89,6 +89,10 @@ tr.tier_1 {
     background-color: #26e264 !important;
 }
 
+tr.tier_2 {
+    background-color: #0ca5a8 !important;
+}
+
 #state_standings {
     width: 100%
 }

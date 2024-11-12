@@ -49,11 +49,12 @@ fileout.write("\t\t\t\t\t<li>Your team performed well enough at a non-qualifying
 fileout.write("\t\t\t\t</ul></li>\n")
 fileout.write("\t\t\t</ul>\n")
 fileout.write("\t\t\t<h3>Current Qualification Standings</h3>\n")
+fileout.write("\t\t\t<p>Green indicates Tier 1 qualification, Blue indicates Tier 2 qualification</p>")
 
 standings_file = open("2025 NAQT State Standings.csv", 'r')
 
 # Variables for Tracking Points Qualifications
-num_total_tournaments = 7
+num_total_tournaments = 8
 
 # Begin Table
 fileout.write("\t\t\t<table id=\"state_standings\">\n")
@@ -80,6 +81,8 @@ while len(team_row) > 1:
     for item in team_row:
         if item == str(100):
             tier = 1
+    if (tier == 0 and int(team_row[-1]) >= 250): 
+        tier = 2
     fileout.write("\t\t\t\t<tr class=\"tier_" + str(tier) + "\">\n")
     fileout.write("\t\t\t\t\t<td><b>" + str(rank) + "</b></td>\n")
     fileout.write("\t\t\t\t\t<td><b>" + str(name) + "</b></td>\n")
