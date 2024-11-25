@@ -1,43 +1,45 @@
 Rank,Team,MAYO,OUEFT,Cougar,Blair Fall,El Reno Fall,Fall Broncho,Aggie,Blair Spring,TOTAL POINTS
-1,Yukon A,100,100,88,,100,,,,388
-2,Yukon B,75,79,75,,94,,,,323
-3,El Reno A,58,83,83,,78,,,,302
-4,Norman North,67,75,67,,89,,,,298
-5,Classen,92,96,100,,,,,,288
-6,Classen MS,83,88,,,83,,,,254
-7,Edmond Memorial A,,92,71,,67,,,,230
-8,Morris A,42,71,92,,22,,,,227
-9,Stillwater,50,,83,,61,,,,194
-10,Edmond North A,,63,46,,72,,,,181
-11,Dickson A,,67,58,,17,,,,142
-12,Morris B,33,29,63,,,,,,125
-13,Edmond Memorial B,,,50,,56,,,,106
-14,Clinton A,,,,100,,,,,100
-14,OSSM A,,,100,,,,,,100
-16,Dickson B,,42,54,,,,,,96
-17,Norman,,50,42,,,,,,92
-18,Clinton B,,,,80,,,,,80
-19,Odyssey,,54,21,,,,,,75
-20,Edmond North B,,17,29,,28,,,,74
-21,Blair A,,,,60,6,,,,66
-22,Heartland,,,25,,39,,,,64
-23,Noble A,,58,,,,,,,58
-24,Plainview,,,,,56,,,,56
-24,Piedmont,,,,,56,,,,56
-26,Yukon C,25,21,,,,,,,46
-26,Academy of Seminole,,46,,,,,,,46
-28,Kiefer,,38,4,,,,,,42
-28,El Reno B,25,,17,,,,,,42
-30,Blair B,,,,40,,,,,40
-31,OSSM B,,,38,,,,,,38
-32,Morris C,,33,,,,,,,33
-32,Savanna A,,,33,,,,,,33
-32,Pauls Valley A,,,,,33,,,,33
-35,El Reno C,25,,,,,,,,25
-35,Kremlin-Hillsdale,,25,,,,,,,25
-37,LeFlore,,13,9,,,,,,22
-38,Olustee-Eldorado,,,,20,,,,,20
-39,Savanna B,,,13,,,,,,13
-40,Pauls Valley B,,,,,11,,,,11
-41,Noble B,,8,,,,,,,8
-42,Enid,,4,,,,,,,4
+1,Yukon A,100,100,88,,100,95,,,483
+2,Classen,92,96,100,,,100,,,388
+3,Norman North,67,75,67,,89,86,,,384
+4,Yukon B,75,79,75,,94,57,,,380
+5,El Reno A,58,83,83,,78,71,,,373
+6,Classen MS,83,88,,,83,81,,,335
+7,Morris A,42,71,92,,22,90,,,317
+8,Edmond Memorial A,,92,71,,67,76,,,306
+9,Stillwater,50,,83,,61,67,,,261
+10,Edmond North A,,63,46,,72,48,,,229
+11,Dickson A,,67,58,,17,62,,,204
+12,Morris B,33,29,63,,,52,,,177
+13,Edmond Memorial B,,,50,,56,19,,,125
+13,Dickson B,,42,54,,,29,,,125
+15,Clinton A,,,,100,,14,,,114
+16,Edmond North B,,17,29,,28,33,,,107
+17,Heartland,,,25,,39,38,,,102
+18,OSSM A,,,100,,,,,,100
+19,Norman,,50,42,,,,,,92
+20,Clinton B,,,,80,,,,,80
+21,Odyssey,,54,21,,,,,,75
+22,Yukon C,25,21,,,,24,,,70
+23,Blair A,,,,60,6,,,,66
+24,Noble A,,58,,,,,,,58
+25,Plainview,,,,,56,,,,56
+25,Piedmont,,,,,56,,,,56
+27,El Reno B,25,,17,,,5,,,47
+28,Academy of Seminole,,46,,,,,,,46
+29,Preston,,,,,,43,,,43
+30,Kiefer,,38,4,,,,,,42
+31,Blair B,,,,40,,,,,40
+32,OSSM B,,,38,,,,,,38
+33,Morris C,,33,,,,,,,33
+33,Savanna A,,,33,,,,,,33
+33,Pauls Valley A,,,,,33,,,,33
+36,El Reno C,25,,,,,,,,25
+36,Kremlin-Hillsdale,,25,,,,,,,25
+38,LeFlore,,13,9,,,,,,22
+39,Olustee-Eldorado,,,,20,,,,,20
+40,Savanna B,,,13,,,,,,13
+41,Pauls Valley B,,,,,11,,,,11
+42,Dickson C,,,,,,10,,,10
+43,Noble B,,8,,,,,,,8
+44,Enid,,4,,,,,,,4
