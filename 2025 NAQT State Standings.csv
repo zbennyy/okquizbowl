@@ -1,7 +1,7 @@
 Rank,Team,MAYO,OUEFT,Cougar,Blair Fall,El Reno Fall,Fall Broncho,Aggie,Blair Spring,TOTAL POINTS
 1,Yukon A,100,100,88,,100,95,100,,583
-2,Classen,92,96,100,,,100,96,,484
-3,El Reno A,58,83,83,,78,71,89,,462
+2,El Reno A,58,83,83,,78,71,89,100,562
+3,Classen,92,96,100,,,100,96,,484
 4,Yukon B,75,79,75,,94,57,68,,448
 5,Morris A,42,71,92,,22,90,93,,410
 6,Edmond Memorial A,,92,71,,67,76,86,,392
@@ -11,40 +11,42 @@ Rank,Team,MAYO,OUEFT,Cougar,Blair Fall,El Reno Fall,Fall Broncho,Aggie,Blair Spr
 10,Stillwater,50,,83,,61,67,43,,304
 11,Dickson A,,67,58,,17,62,71,,275
 12,Morris B,33,29,63,,,52,79,,256
-13,Edmond Memorial B,,,50,,56,19,75,,200
-14,Heartland,,,25,,39,38,61,,163
-15,Dickson B,,42,54,,,29,32,,157
-16,Norman,,50,42,,,,64,,156
-17,Edmond North B,,17,29,,28,33,46,,153
-18,Clinton A,,,,100,,14,,,114
-19,Academy of Seminole,,46,,,,,54,,100
-19,OSSM A,,,100,,,,,,100
-21,Savanna A,,,33,,,,50,,83
-22,Clinton B,,,,80,,,,,80
-23,Odyssey,,54,21,,,,,,75
-24,Preston,,,,,,43,29,,72
-25,Yukon C,25,21,,,,24,,,70
-26,Pauls Valley A,,,,,33,,36,,69
-27,Blair A,,,,60,6,,,,66
-28,Noble A,,58,,,,,,,58
-29,Riverfield Country Day,,,,,,,57,,57
-30,Plainview,,,,,56,,,,56
-30,Piedmont,,,,,56,,,,56
-32,El Reno B,25,,17,,,5,,,47
-33,Kiefer,,38,4,,,,,,42
-34,Blair B,,,,40,,,,,40
-35,Lawton,,,,,,,39,,39
-36,OSSM B,,,38,,,,,,38
-37,Morris C,,33,,,,,,,33
-37,LeFlore A,,13,9,,,,11,,33
-39,Pauls Valley B,,,,,11,,21,,32
-40,Savanna B,,,13,,,,18,,31
-41,Edmond Memorial C,,,,,,,25,,25
-41,El Reno C,25,,,,,,,,25
-41,Kremlin-Hillsdale,,25,,,,,,,25
-44,Dickson C,,,,,,10,14,,24
-45,Olustee-Eldorado,,,,20,,,,,20
-46,Noble B,,8,,,,,,,8
-47,Dickson D,,,,,,,7,,7
-48,Enid,,4,,,,,,,4
-48,Leflore B,,,,,,,4,,4
+13,Heartland,,,25,,39,38,61,90,253
+14,Edmond Memorial B,,,50,,56,19,75,,200
+15,Clinton A,,,,100,,14,,80,194
+16,Dickson B,,42,54,,,29,32,,157
+17,Norman,,50,42,,,,64,,156
+18,Edmond North B,,17,29,,28,33,46,,153
+19,Clinton B,,,,80,,,,30,110
+20,Academy of Seminole,,46,,,,,54,,100
+20,OSSM A,,,100,,,,,,100
+22,Lawton,,,,,,,39,60,99
+23,El Reno B,25,,17,,,5,,50,97
+24,Blair A,,,,60,6,,,20,86
+25,Savanna A,,,33,,,,50,,83
+26,Odyssey,,54,21,,,,,,75
+27,Preston,,,,,,43,29,,72
+28,Yukon C,25,21,,,,24,,,70
+28,Bridge Creek,,,,,,,,70,70
+30,Pauls Valley A,,,,,33,,36,,69
+31,Noble A,,58,,,,,,,58
+32,Riverfield Country Day,,,,,,,57,,57
+33,Plainview,,,,,56,,,,56
+33,Piedmont,,,,,56,,,,56
+35,Kiefer,,38,4,,,,,,42
+36,Blair B,,,,40,,,,,40
+36,Burns Flat-Dill City,,,,,,,,40,40
+38,OSSM B,,,38,,,,,,38
+39,Morris C,,33,,,,,,,33
+39,LeFlore A,,13,9,,,,11,,33
+41,Pauls Valley B,,,,,11,,21,,32
+42,Savanna B,,,13,,,,18,,31
+43,Olustee-Eldorado,,,,20,,,,10,30
+44,Edmond Memorial C,,,,,,,25,,25
+44,El Reno C,25,,,,,,,,25
+44,Kremlin-Hillsdale,,25,,,,,,,25
+47,Dickson C,,,,,,10,14,,24
+48,Noble B,,8,,,,,,,8
+49,Dickson D,,,,,,,7,,7
+50,Enid,,4,,,,,,,4
+50,Leflore B,,,,,,,4,,4

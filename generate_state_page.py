@@ -81,7 +81,7 @@ while len(team_row) > 1:
     for item in team_row:
         if item == str(100):
             tier = 1
-    if (tier == 0 and int(team_row[-1]) >= 155): 
+    if (tier == 0 and int(team_row[-1]) >= 100): 
         tier = 2
     fileout.write("\t\t\t\t<tr class=\"tier_" + str(tier) + "\">\n")
     fileout.write("\t\t\t\t\t<td><b>" + str(rank) + "</b></td>\n")
