@@ -54,7 +54,7 @@ fileout.write("\t\t\t<p>Green indicates Tier 1 qualification, Blue indicates Tie
 standings_file = open("2026 NAQT State Standings.csv", 'r')
 
 # Variables for Tracking Points Qualifications
-num_total_tournaments = 4
+num_total_tournaments = 5
 
 # Begin Table
 fileout.write("\t\t\t<table id=\"state_standings\">\n")
