@@ -40,7 +40,7 @@ fileout.write("\t\t\t\t<p>Any team that wins a local, regular-season tournament 
 fileout.write("\t\t\t\t<li><p><b>Tier 2: Qualification Points</b></p>\n")
 fileout.write("\t\t\t\t<p>All teams that participate in qualifying events will be awarded points based on the percentile of their finishing position. For example, in a field of 20 teams the winning team will be awarded 100 points (and an automatic qualification), the second place team will receive 95 points, the third place team will receive 90 points, and so on. The number of points a team receives at a given tournament can be computed from the formula, 100 * (1 - <sup>p-1</sup>&frasl;<sub>n</sub>) where <i>p</i> is the team's finishing position and <i>n</i> is the number of teams at the event.</p></li>\n")
 fileout.write("\t\t\t\t<li><p><b>Tier 3: Wildcard Bids</b></p>\n")
-fileout.write("\t\t\t\t<p>Any team that is unable to qualify through one of the above methods may submit an application for a wildcard bid. Teams will be required to submit their prospective roster for the state championship, as well as links to stats which show why their application should be accepted. The application for the 2025 State Championship will be opened near the end of the first semester of the competition year.</p>\n")
+fileout.write("\t\t\t\t<p>Any team that is unable to qualify through one of the above methods may submit an application for a wildcard bid. Teams will be required to submit their prospective roster for the state championship, as well as links to stats which show why their application should be accepted. The application for the 2027 State Championship will be opened near the end of the first semester of the competition year.</p>\n")
 fileout.write("\t\t\t\t<p>Acceptable justifications for a wildcard bid include: </p>\n")
 fileout.write("\t\t\t\t<ul>\n")
 fileout.write("\t\t\t\t\t<li>Your team was not able to attend sufficient tournaments due to scheduling conflicts, but performed well at the tournaments they did attend</li>\n")
@@ -51,7 +51,7 @@ fileout.write("\t\t\t</ul>\n")
 fileout.write("\t\t\t<h3>Current Qualification Standings</h3>\n")
 fileout.write("\t\t\t<p>Green indicates Tier 1 qualification, Blue indicates Tier 2 qualification</p>")
 
-standings_file = open("2026 NAQT State Standings.csv", 'r')
+standings_file = open("2027 NAQT State Standings.csv", 'r')
 
 # Variables for Tracking Points Qualifications
 num_total_tournaments = 5
@@ -81,8 +81,8 @@ while len(team_row) > 1:
     for item in team_row:
         if item == str(100):
             tier = 1
-    if (tier == 0 and int(team_row[-1]) >= 200): 
-        tier = 2
+#    if (tier == 0 and int(team_row[-1]) >= 200): 
+#        tier = 2
     fileout.write("\t\t\t\t<tr class=\"tier_" + str(tier) + "\">\n")
     fileout.write("\t\t\t\t\t<td><b>" + str(rank) + "</b></td>\n")
     fileout.write("\t\t\t\t\t<td><b>" + str(name) + "</b></td>\n")
